@@ -100,9 +100,6 @@
 //
 
 
-void startRotation();
-void pauseRotation();
-
 int nLeftButton  = 0;
 int nRightButton = 0;
 int nEnterButton = 0;
