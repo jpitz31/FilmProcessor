@@ -207,6 +207,7 @@ task main()
 					}
 				}
 				motor[motorA] = 0;
+				wait1Msec(500);
 
 				if (isProcessing == 2)
 				{
